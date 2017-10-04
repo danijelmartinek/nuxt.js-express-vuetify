@@ -22,8 +22,8 @@ $ npm start
 
 ## Documentation
 
-Nuxt.js --> https://nuxtjs.org/guide
-Express --> http://expressjs.com/
-Vuetify --> https://vuetifyjs.com/
+Nuxt.js --> https://nuxtjs.org/guide </br>
+Express --> http://expressjs.com/ </br>
+Vuetify --> https://vuetifyjs.com/ </br>
 
 Nuxt.js + Express --> https://github.com/nuxt-community/express-template
