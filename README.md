@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# clone repository
+$ git clone https://github.com/danijelmartinek/nuxt.js-express-vuetify.git
+
 # install dependencies
 $ npm install # Or yarn install
 
@@ -15,8 +18,10 @@ $ npm run dev
 $ npm start
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+## Documentation
 
-## Backpack
+Nuxt.js --> https://nuxtjs.org/guide
+Express --> http://expressjs.com/
+Vuetify --> https://vuetifyjs.com/
 
-We use [backpack](https://github.com/palmerhq/backpack) to watch and build the application, so you can use the latest ES6 features (module syntax, async/await, etc.).
+Nuxt.js + Express --> https://github.com/nuxt-community/express-template
