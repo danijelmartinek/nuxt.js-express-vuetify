@@ -1,0 +1,14 @@
+html, body
+{
+  background-color: #fff;
+  color: #000;
+  letter-spacing: 0.5px;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  height: 100vh;
+  margin: 0;
+}
+
+a, a:hover, a:focus, a:visited
+{
+  color: #000;
+}
