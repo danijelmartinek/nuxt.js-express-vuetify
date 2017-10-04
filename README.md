@@ -2,6 +2,8 @@
 
 > Nuxt.js + Express boilerplate with Vuetify component framework
 
+<p align="center"><img src="https://github.com/danijelmartinek/nuxt.js-express-vuetify/blob/master/assets/img/nuxtexpressvuetify.png"></p>
+
 ## Build Setup
 
 ``` bash
