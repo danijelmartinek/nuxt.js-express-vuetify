@@ -7,8 +7,3 @@ html, body
   height: 100vh;
   margin: 0;
 }
-
-a, a:hover, a:focus, a:visited
-{
-  color: #000;
-}

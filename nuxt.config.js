@@ -47,4 +47,6 @@ module.exports = {
   ** Load Vuetify CSS globally
   */
   css: ['~/assets/css/app.styl']
+  
 }
+
